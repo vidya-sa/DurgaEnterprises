@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Sri-durga-enterprises/static/css/main.2d1c0d76.css",
+    "main.js": "/Sri-durga-enterprises/static/js/main.58cc0cac.js",
+    "static/media/image10.png": "/Sri-durga-enterprises/static/media/image10.7ae605251db3e1defa0b.png",
+    "static/media/logo.png": "/Sri-durga-enterprises/static/media/logo.eb35d204636957af6928.png",
+    "static/media/image7.jpg": "/Sri-durga-enterprises/static/media/image7.f2555acd2c4d7835f4ce.jpg",
+    "static/media/image2.jpg": "/Sri-durga-enterprises/static/media/image2.314f6d4628391da8c49c.jpg",
+    "static/media/image1.jpg": "/Sri-durga-enterprises/static/media/image1.1e8040cd8d7776001fb5.jpg",
+    "static/media/image9.jpg": "/Sri-durga-enterprises/static/media/image9.4dd6841e989cf9233d67.jpg",
+    "static/media/image6.jpg": "/Sri-durga-enterprises/static/media/image6.364a558704ea76768273.jpg",
+    "static/media/ink2.jpg": "/Sri-durga-enterprises/static/media/ink2.91bde817da86cdfa481d.jpg",
+    "static/media/image3.jpg": "/Sri-durga-enterprises/static/media/image3.687ca7b6d4b33f02f356.jpg",
+    "static/media/image8.jpg": "/Sri-durga-enterprises/static/media/image8.b703e3c12101639e6ce5.jpg",
+    "static/media/ink1.jpg": "/Sri-durga-enterprises/static/media/ink1.c8c65a2772336b395270.jpg",
+    "index.html": "/Sri-durga-enterprises/index.html",
+    "main.2d1c0d76.css.map": "/Sri-durga-enterprises/static/css/main.2d1c0d76.css.map",
+    "main.58cc0cac.js.map": "/Sri-durga-enterprises/static/js/main.58cc0cac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d1c0d76.css",
+    "static/js/main.58cc0cac.js"
+  ]
+}
